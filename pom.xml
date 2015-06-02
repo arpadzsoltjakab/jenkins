@@ -43,7 +43,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<failOnViolation>false</failOnViolation>
+					<failOnViolation>true</failOnViolation>
 					<logViolationsToConsole>true</logViolationsToConsole>
 				</configuration>
 			</plugin>
